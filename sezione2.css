@@ -1,0 +1,236 @@
+/* Stili specifici per Sezione 2 - Pagina 1 */
+
+/* Container principale sezione 2 */
+.main-container-sezione2 {
+    width: 1728px;
+    height: 3871px;
+    position: relative;
+    background: #FFFFFF;
+    padding-top: 100px;
+    margin: 0;
+    padding-bottom: 0;
+    overflow: visible;
+}
+
+.pagina-1 {
+    position: relative;
+    width: 1728px;
+    height: 3871px;
+    background: #FFFFFF;
+}
+
+/* foto-header-pagina-1 */
+.foto-header-pagina-1 {
+    position: absolute;
+    width: 1410px;
+    height: 850px;
+    left: 159px;
+    top: 50px;
+    background: #D9D9D9;
+    border-radius: 25px;
+}
+
+/* h1-pagina-1 */
+.h1-pagina-1 {
+    position: absolute;
+    width: 684px;
+    height: 120px;
+    left: 267px;
+    top: 467px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    color: #000000;
+    margin: 0;
+}
+
+/* didascalia-pagina-1 */
+.didascalia-pagina-1 {
+    position: absolute;
+    width: 683px;
+    height: 189px;
+    left: 268px;
+    top: 632px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    margin: 0;
+}
+
+/* didascalia-pagina-1-centro */
+.didascalia-pagina-1-centro {
+    position: absolute;
+    width: 1194px;
+    height: 300px;
+    left: 268px;
+    top: 1146px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+}
+
+/* testo-sopra-rettangoli */
+.testo-sopra-rettangoli {
+    position: absolute;
+    width: 1194px;
+    height: 50px;
+    left: 268px;
+    top: 1151px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+}
+
+/* rettangolo-1 */
+.rettangolo-1 {
+    position: absolute;
+    width: 378px;
+    height: 440px;
+    left: 267px;
+    top: 1451px;
+    background: #D9D9D9;
+    border-radius: 25px;
+}
+
+/* rettangolo-2 */
+.rettangolo-2 {
+    position: absolute;
+    width: 378px;
+    height: 440px;
+    left: 675px;
+    top: 1451px;
+    background: #D9D9D9;
+    border-radius: 25px;
+}
+
+/* rettangolo-3 */
+.rettangolo-3 {
+    position: absolute;
+    width: 378px;
+    height: 440px;
+    left: 1083px;
+    top: 1451px;
+    background: #D9D9D9;
+    border-radius: 25px;
+}
+
+/* h2-sezione-2-pagina1 */
+.h2-sezione-2-pagina1 {
+    position: absolute;
+    width: 1194px;
+    height: 50px;
+    left: calc(50% - 1194px/2 + 1px);
+    top: 2177px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+}
+
+/* testo-sotto-sezione2 */
+.testo-sotto-sezione2 {
+    position: absolute;
+    width: 1194px;
+    height: 100px;
+    left: calc(50% - 1194px/2 + 1px);
+    top: 2247px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+}
+
+/* testo-pagina-1 */
+.testo-pagina-1 {
+    position: absolute;
+    width: 1194px;
+    height: 319px;
+    left: 268px;
+    top: 2453px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+}
+
+/* rettangolo-testo */
+.rettangolo-testo {
+    position: absolute;
+    width: 100vw;
+    height: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 2641px;
+    background: #D9D9D9;
+}
+
+/* h2-1-pagina1 */
+.h2-1-pagina1 {
+    position: absolute;
+    width: 276px;
+    height: 50px;
+    left: 268px;
+    top: 2688px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 50px;
+    color: #000000;
+    margin: 0;
+}
+
+/* testo-h2-1 */
+.testo-h2-1 {
+    position: absolute;
+    width: 683px;
+    height: 500px;
+    left: 269px;
+    top: 2764px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    margin: 0;
+}
+
+/* Footer per sezione 2 */
+.main-container-sezione2 .footer {
+    position: absolute;
+    width: 100vw;
+    height: 450px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 3421px;
+    background: #A89B94;
+    z-index: 5;
+}
